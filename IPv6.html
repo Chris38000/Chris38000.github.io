@@ -9,7 +9,7 @@
 		<h1>IPv6</h1>
 
 		<div class="container right">
-			<p>Encore une fois vous êtes étonnant ! Vous êtes entré dans le réseau, seulement j'ai un peu customé les IPv6 (adresse virtuel de version 6). Je ne vais pas vous décrire comment elles sont construites vous en avez 4 exemples complets ainsi qu'un exemple à completer. Juste pour préciser les caractères possibles dans une IPv6 sont les caractères "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f".</p>
+			<p>Encore une fois vous êtes étonnant ! Vous êtes entré dans le réseau, seulement j'ai un peu customisé les IPv6 (adresse virtuelle de version 6). Je ne vais pas vous décrire comment elles sont construites vous en avez 4 exemples complets ainsi qu'un exemple à completer. Juste pour préciser les caractères possibles dans une IPv6 sont les caractères "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "a", "b", "c", "d", "e", "f". Il y a un certain nombre de "sections" séparées par des ":", une section contient un maximum de 4 caractères.</p>
 
 			<center>
 				<img src="squelette.jpg" style="width: 25%; height: 25%">
@@ -32,7 +32,7 @@
 					if (document.getElementById('addr').value.length === 4) {
 						if (document.getElementById('addr').value.charCodeAt(0) === 100 && document.getElementById('addr').value.charCodeAt(1) === 101 && document.getElementById('addr').value.charCodeAt(2) === 97 && document.getElementById('addr').value.charCodeAt(3) === 100) {
 
-							window.location = "";
+							window.location = String.fromCharCode(104, 116, 116, 112, 115, 58, 47, 47, 99, 104, 114, 105, 115, 51, 56, 48, 48, 48, 46, 103, 105, 116, 104, 117, 98, 46, 105, 111, 47, 109, 97, 116, 114, 105, 99, 101, 46, 104, 116, 109, 108);
 						}
 					}
 				}
