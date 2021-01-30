@@ -18,7 +18,7 @@ Il vous faudra envoyer 4 mails au 4 partenaires (si vous êtes plus de 4, vous p
 ## Votre rôle
  - préparer l'escape game en envoyant les 4 mails
  - veiller au respect des règles
- - chronométrer l'équipe et leur indiquer le score qu'ils obtiendront a l'issu de la partie. Vous trouverez les scores sur cette page [Liens](/page1.html) que l'équipe visitera au cours de la partie
+ - chronométrer l'équipe et leur indiquer le score qu'ils obtiendront a l'issu de la partie. Vous trouverez les scores sur [cette page](/page1.html) que l'équipe visitera au cours de la partie
  - si l'équipe se perd complètement, qu'elle se démotive vous devez la remotiver ou la recentrer
  - en cas de besoin glisser quelques mots à l'équipe en guise d'aide (pas trop non plus !)
 
