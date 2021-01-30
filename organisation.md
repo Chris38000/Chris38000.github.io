@@ -1,4 +1,4 @@
-# Bienvenu
+# Bienvenu organisateur !
 
 ## Préparation
 Il vous faudra envoyer 4 mails au 4 partenaires (si vous êtes plus de 4, vous pouvez rassemblez plusieurs personnes sur un même rôle ainsi vous enverrez un mail à chacun des participants). Attention: il est impératif de conserver la présentation ! La plupart des applications de mail permettent d'envoyer un mail dans cette même présentation en copiant complétement la page. Pour copier une page il suffit d'aller sur la page à copier puis d'appuyer simultanément sur `Ctrl` + `A` (pour saisir tous les éléments) puis `Ctrl` + `C` (pour copier ce qui a était saisi). Une fois sur votre messagerie ( par exemple: *www.gmail.com* ) rédigez un nouveau message, à la place d'écrire du texte appuyez sur `Ctrl` + `V` (pour collez la page dans le mail). Ajoutez le(s) destinataire(s) et envoyer le message.
