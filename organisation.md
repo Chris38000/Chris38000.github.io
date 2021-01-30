@@ -10,9 +10,9 @@ Il vous faudra envoyer 4 mails au 4 partenaires (si vous êtes plus de 4, vous p
 ## Règles à respecter
  - Ne pas regarder les codes sources
  - Ne pas dire de (le scénario indique clairement à chacun des joueurs que leur mémoire est perturbé à cause d'un bug dans le jeu et qu'ils ne peuvent pas prononcer les éléments suivant):
-  - chiffres ou nombres
-  - lettres
-  - couleurs
+   - chiffres ou nombres
+   - lettres
+   - couleurs
  - Aucun contact autre qu'audio ne peut etre utilisé, les participants peuvent pas se voir, ne peuvent pas communiquer par mail, messages ou autres partage écrit ou de fichier, pas de mimes ou de dessins ne peuvent être échangé. Uniquement des sons.
 
 ## Votre rôle
