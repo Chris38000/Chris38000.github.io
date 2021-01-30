@@ -24,7 +24,7 @@ Il vous faudra envoyer 4 mails au 4 partenaires (si vous êtes plus de 4, vous p
 
 ## Réponses
 1. [Lien](/page1.html)
-> L'aide proposé: `%35%65%76%65%6e` veut dire `5even` (donc le mot de passe est `5even`). Les participants devront découvrir que la chaine `%XX`, où `XX` est **nombre hexadécimal**, se répète. Dans le mail envoyé précédemment nous trouvons une *table ascii* qui permet de connaitre la correspondance entre un **nombre hexadécimal** et une lettre. Ainsi `35` vaut `5`, `65` vaut `e` etc...
+> L'aide proposé: `%35%65%76%65%6e` veut dire `5even` (donc le mot de passe est `5even`). Les participants devront découvrir que la chaine `%XX`, où `XX` est un **nombre hexadécimal**, se répète. Dans le mail envoyé précédemment nous trouvons une *table ascii* qui permet de connaitre la correspondance entre un **nombre hexadécimal** et un caractère. Ainsi `35` vaut `5`, `65` vaut `e` etc...
 2. [Lien](/ip.html)
 > Toujours dans le mail, chacun des 4 rôles ont un nombre différent. Ces 4 nombres permettent de créer une `IPv4` (adresse virtuelle) qui est demandé par le jeu. Le sens des nombres peut être retrouvé grâce aux couleurs des rectangles ci-dessus (il suffit des les lire de gauche à droite), ce sont les mêmes couleurs que dans les mails. Il faudra donc que l'équipe arrive à s'organiser pour communiquer la couleur et le nombre de chacun des membres, sans prononcer de couleur ni de nombre.
 3. [Lien](/firewall.html)
