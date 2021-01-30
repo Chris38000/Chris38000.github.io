@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Password</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<h1>Password</h1>
+
+		<div class="container center">
+			<p>Vous pensiez que c'était fini ? Enfaite je n'ai compté que 6 énigmes... vous vous doutiez qu'il y en aurai 7 non ? Si c'est le cas vous avez vu juste. <br> Et puis un escapeGame sans cadenas ça n'existe pas ! Voici votre cadenas : les numéros acceptés sont "0", "1", "2", "3", par contre le méchanisme est rouillé et je ne suis pas sur qu'il s'ouvrira après 4 essais. Réfléchissez avant de tenter !</p>
+
+			<img src="cadena.jpg" style="width: 30%; height: 30%"><br><br>
+
+			<label>Code:</label><input type="number" id="1" onchange="test();"><input type="number" id="2" onchange="test()"><input type="number" id="3" onchange="test();"><input type="number" id="4" onchange="test()">
+
+			<script type="text/javascript">
+				function test () {
+					if ("NC0zLTItMQ==" == window.btoa(`${document.getElementById('1').value}-${document.getElementById('2').value}-${document.getElementById('3').value}-${document.getElementById('4').value}`)) {
+						window.location = window.atob("");
+					}
+				}
+			</script>
+		</div>
+	</body>
+</html>

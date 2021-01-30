@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>IPv4 du Firewall</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<h1>IPv4 du firewall</h1>
+
+		<div class="container left">
+			<p>Maintenant que vous êtes sur le site il vas falloir trouver l'IPv4 (adresse virtuelle dans sa version 4) du pare-feu (ordinateur qui protège les réseaux). Allez je vous offre un peu d'aide, une IPv4 se compose de 4 nombres allant de 0 à 255 (séparé par des points).</p>
+
+			<img src="couleurs.jpg" style="width: 25%; height: 25%"><br><br>
+
+			<p><label>IPv4:</label><input type="number" id="1" onchange="test();">.<input type="number" id="2" onchange="test()">.<input type="number" id="3" onchange="test();">.<input type="number" id="4" onchange="test()"></p>
+
+			<script type="text/javascript">
+				function test () {
+					if ("MTI3LjAuMC4x" == window.btoa(`${document.getElementById('1').value}.${document.getElementById('2').value}.${document.getElementById('3').value}.${document.getElementById('4').value}`)) {
+						window.location = window.atob("");
+					}
+				}
+			</script>
+		</div>
+	</body>
+</html>

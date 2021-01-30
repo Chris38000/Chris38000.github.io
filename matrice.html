@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Matrice</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<h1>Matrice</h1>
+
+		<div class="container right">
+			<p>Aie aie aie... vous allez loin vous, mais en combien de temps ? Bon je ne vais pas vous aider sur cette énigme. Débrouillez vous !</p>
+
+			<img src="matrice.jpg" style="width: 25%; height: 25%"><br><br>
+
+			<p><label>Matrice:</label><input type="number" id="1" onchange="test();">-<input type="number" id="2" onchange="test()">-<input type="number" id="3" onchange="test();">-<input type="number" id="4" onchange="test()"></p>
+
+			<script type="text/javascript">
+				function test () {
+					if ("NTA1LTA1MC00NDQtNTAw" == window.btoa(`${document.getElementById('1').value}-${document.getElementById('2').value}-${document.getElementById('3').value}-${document.getElementById('4').value}`)) {
+						window.location = window.atob("");
+					}
+				}
+			</script>
+		</div>
+	</body>
+</html>

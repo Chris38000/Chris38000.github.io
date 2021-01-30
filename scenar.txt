@@ -1,0 +1,24 @@
+Email avec un groupe de mot a ne pas prononcé (lettre, nombre, couleur), un pseudo (007, MrX, Balthazar, Luigi), la table ascii et le texte à une certaine couleur, dans la signature se cache un 7 (lien), le numéro de l'IP.
+
+Enoncé :
+	Vous avez joué au jeu Seven (7) ! Et voila ce qui arrive lorsqu'on joue au jeu interdit !
+	Vous êtes aspiré dans un jeu vidéo, vous semblez seul et pourtant vous entendez des voies, d'autres personne semble se trouver la aussi. Vous vous rendez compte que vous êtes dans le monde réel mais que personne ne vous voie, ne vous entend, et que vous ne pouvez rien toucher d'autre que votre ordinateur ! Vous semblez être un fantôme qui ne peux accèder qu'à l'ordinateur avec lequel il a joué et aux voies des autres joueurs enfermés avec vous. La peur commence à vous envahir et cette pression que vous vous mettez vous fait perdre une partie de la mémoire vous ne pouvez pas prononcé de nom de ... (lettre, nombre, couleur).
+
+	Le seul moyen de sortir de ce jeu semble etre de remettre les matrice en place dans le serveur centrale... comment pourriez vous faire ça ? Heureusement le jeu est bon joueur: il vous a laissé quelques indices.
+
+	Vous ne pouvez pas communiquer entre vous différemment qu'en parlant (pas de message, de dessin, de mime, de signes quelquonques, etc...).
+
+Enigmes :
+	1 - (Accèder au site) URL avec un paramètre à décodé (pourcent encode)
+	2 - (Trouver l'IP du firewall) Chaque joueur a un morceau de l'IP (v4) dans son mail, de couleur differente.
+	Il doivent communiquer pour trouver le code (l'ordre est donné par les couleurs du mail et une image au dessus représentant 4 partenaires avec des corps rectangulaire et vide).
+	3 - (Trouver le "bug" dans le firwall) Les joueurs arrive dans une "matrice" de 0 et de 1 (avec un 7 qui est un lien) et avec un poème/prédiction: "Lorsque les 4 partenaires se retrouveront,
+						Que leurs esprits se s'incroniserons,
+						Ils cliqueront sur le bug présent,
+						Et reprendront par le commencement."
+
+	4 - La page trouvé indique: "Bien joué mais ceci n'est pas la source ni le commencement !" (une fois qu'ils ont cliqué sur le 7 dans le mail)
+	Sa y est vous êtes entré dans le réseau ! Maintenant il faut trouver la machine exact !
+	5 - (Trouver l'IPv6 de la machine) Liste d'IPv6 aléatoire ou les 4 dernieres lettres representent un mot: "bee", "be", "007", "beaf", "dad", . L'adresse est déjà la mais il manque les 4 derniers caractères (le mot à trouver est "dead") (un squelette se trouve en haut de la page).
+	6 - (Remettre les matrices en place) Ils faut récupérer les partenaires de la seconde énigme et les placer sur les nombres qui se trouve sur cette page alors certains nombres ressorte et il faut respecter le code couleur défini sur la page
+	7 - (Activer le changement dans la matrice) Trouver un mot de passe (cadena à code de 0 à 3 avec 4 cases, il a un signe > ou < entre chaque ce qui indique le mot de passe)
