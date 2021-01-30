@@ -13,7 +13,7 @@ Il vous faudra envoyer 4 mails au 4 partenaires (si vous êtes plus de 4, vous p
    - chiffres ou nombres
    - lettres
    - couleurs
- - Aucun contact autre qu'audio ne peut etre utilisé, les participants peuvent pas se voir, ne peuvent pas communiquer par mail, messages ou autres partage écrit ou de fichier, pas de mimes ou de dessins ne peuvent être échangé. Uniquement des sons.
+ - Aucun contact autre qu'audio ne peut etre utilisé, les participants ne peuvent pas se voir, ne peuvent pas communiquer par mail, messages ou autres partage écrit ou de fichier, pas de mimes ou de dessins ne peuvent être échangé. Uniquement des sons.
 
 ## Votre rôle
  - préparer l'escape game en envoyant les 4 mails
